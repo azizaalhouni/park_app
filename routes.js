@@ -1,0 +1,2 @@
+page('/',index.index);
+page();
