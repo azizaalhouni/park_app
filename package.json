@@ -1,0 +1,25 @@
+{
+  "name": "park",
+  "version": "1.0.0",
+  "description": "give you details",
+  "main": "categories.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-request-proxy": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azizaalhouni/park_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azizaalhouni/park_app/issues"
+  },
+  "homepage": "https://github.com/azizaalhouni/park_app#readme"
+}
