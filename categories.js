@@ -8,5 +8,4 @@
  	}
 
  	module.eveCategories = eveCategories;
-
  })(window);
