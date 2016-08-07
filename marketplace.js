@@ -7,8 +7,8 @@
   		.done(function(data){
   			console.log(data);
   		});
- 	}
  	};
+
 
   	eveData.pullEveData();
 
